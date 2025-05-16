@@ -15,4 +15,9 @@ Lastly, to enhance the visual appearance and interactivity of the app, suggestio
 
 Through these adjustments and problem-solving steps, the app became stable, functional, and responsive, and is now ready for further enhancements or deployment.
 
+![image](https://github.com/user-attachments/assets/7c99a5da-a238-4f50-a588-35eb147c4e4a)
+
+
+
+
 
