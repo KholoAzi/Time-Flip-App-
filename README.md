@@ -18,6 +18,9 @@ Through these adjustments and problem-solving steps, the app became stable, func
 ![image](https://github.com/user-attachments/assets/7c99a5da-a238-4f50-a588-35eb147c4e4a)
 
 
+Application ScreenShoots: 
+
+![image](https://github.com/user-attachments/assets/365a6459-c66c-40e5-a934-48bfc95ebfcd)
 
 
 
